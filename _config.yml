@@ -1,0 +1,27 @@
+site:
+  title: "Academic Group"
+  description: "Welcome to our research group!"
+  baseurl: ""
+  url: "https://yourwebsite.com"
+
+collections:
+  team:
+    output: true
+  publications:
+    output: true
+  projects:
+    output: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+navigation:
+  - title: Home
+    url: /
+  - title: Team
+    url: /team/
+  - title: Publications
+    url: /publications/
+  - title: Projects
+    url: /projects/

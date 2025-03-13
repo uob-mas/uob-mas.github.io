@@ -1,0 +1,14 @@
+teams:
+  - name: "Dr. Jane Doe"
+    photo: "jane_doe.jpg"
+    keywords: ["Machine Learning", "AI", "Data Science"]
+    webpage: "https://janedoe.com"
+    google_scholar: "https://scholar.google.com/citations?user=XXXXX"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+
+  - name: "Dr. John Smith"
+    photo: "john_smith.jpg"
+    keywords: ["Computational Biology", "Bioinformatics"]
+    webpage: "https://johnsmith.com"
+    google_scholar: "https://scholar.google.com/citations?user=YYYYY"
+    orcid: "https://orcid.org/0000-0000-0000-0001"
