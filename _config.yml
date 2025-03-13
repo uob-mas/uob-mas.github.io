@@ -2,7 +2,7 @@ site:
   title: "Academic Group"
   description: "Welcome to our research group!"
   baseurl: ""
-  url: "https://yourwebsite.com"
+  url: "https://uob-mas.github.io"
 
 collections:
   team:
