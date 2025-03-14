@@ -68,3 +68,30 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
 }
 
+/* Custom styles for the carousel */
+.carousel {
+    margin: 20px auto; /* Center the carousel */
+    max-width: 800px; /* Set a maximum width */
+}
+
+.carousel-inner img {
+    width: 100%; /* Make images responsive */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for controls */
+    border-radius: 50%; /* Round controls */
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 5%; /* Adjust control width */
+}
+
+.carousel-control-prev:hover,
+.carousel-control-next:hover {
+    background-color: rgba(0, 0, 0, 0.7); /* Darker background on hover */
+}
+
