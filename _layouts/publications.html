@@ -3,7 +3,7 @@ layout: default
 title: Publications | Social AI and Multi-Agent Systems | Nirav Ajmeri's Group at Bristol
 ---
 <h2>Our Publications</h2>
-{% assign sorted_publications = site.data.publications | sort: 'year' | reverse %}
+{% assign sorted_publications = site.data.publications %}
 
 {% assign current_year = nil %}
 {% for pub in sorted_publications %}
