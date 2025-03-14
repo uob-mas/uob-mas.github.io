@@ -16,7 +16,7 @@ title: Our Team | Social AI and Multi-Agent Systems | Nirav Ajmeri's Group at Br
   <p>{{ member.title }}</p>
   {% if member.keywords %}<p>Interests: <em>{{ member.keywords | join: ", " }}</em></p> {% endif %}
   <p>
-    {% if member.email %} <a href="{{ member.email }}"><img src="/assets/images/email.png" style="width:24px;"/></a> {% endif %}
+    {% if member.email %} <a href="mailto:{{ member.email }}"><img src="/assets/images/email.png" style="width:24px;"/></a> {% endif %}
     {% if member.google_scholar %} <a href="{{ member.google_scholar }}"><img src="/assets/images/google_scholar.png" style="width:24px;"/></a> {% endif %} 
     {% if member.orcid %} <a href="{{ member.orcid }}"><img src="https://orcid.org/assets/icons/favicon.ico" style="width:24px;"/></a> {% endif %}
   </p>
