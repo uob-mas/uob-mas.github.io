@@ -1,0 +1,538 @@
+# _data/publications.yml
+university_of_bristol:
+  2025:
+    conference:
+      - title: Combining Normative Ethics Principles to Learn Prosocial Behaviour.
+        authors: Jessica Woodgate and Nirav Ajmeri.
+        venue: Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+        location: Detroit
+        month: May
+        pages: 1--3
+        code: C24
+    journal:
+      - title: A Comparative Study of GNNs and Rule-Based Methods for Synthetic Social Network Generation.
+        authors: Alex O. Davies, Nirav Ajmeri, and Telmo M. Silva Filho.
+        venue: IEEE Access
+        volume: 13
+        pages: 32198--32210
+        doi: 0.1109/ACCESS.2025.3541091
+        code: J18
+    workshop:
+      - title: A Metric for the Balance of Information in Graph Learning.
+        authors: Alex O. Davies, Nirav Ajmeri, and Telmo M. Silva Filho.
+        venue: Proceedings of the 4th Annual AAAI Workshop on AI to Accelerate Science and Engineering (AI2ASE)
+        location: Philadelphia
+        month: Feb
+        pages: 1--5
+        code: W18
+    conference:
+      - title: Operationalising Rawlsian Ethics for Fairness in Norm-Learning Agents.
+        authors: Jessica Woodgate, Paul Marshall, and Nirav Ajmeri.
+        venue: Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI)
+        location: Philadelphia
+        month: Feb
+        pages: 1--9
+        code: C23
+  2024:
+    journal:
+      - title: Artificial intelligence for collective intelligence: A national-scale research strategy.
+        authors: Seth Bullock, Nirav Ajmeri, Mike Batty, Michaela Black, John Cartlidge, Robert Challen, Cangxiong Chen, Jing Chen, Joan Condell, Leon Danon, Adam Dennett, Alison Heppenstall, Paul Marshall, Phil Morgan, Aisling O'Kane, Laura G. E. Smith, Theresa Smith, and Hywel T. P. Williams.
+        venue: Knowledge Engineering Review (KER)
+        volume: 39
+        pages: 1--23
+        code: J17
+    conference:
+      - title: Value-Based Rationale Improve Social Experience: A Multiagent Simulation Study.
+        authors: Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh.
+        venue: Proceedings of the 27th European Conference on Artificial Intelligence (ECAI)
+        location: Santiago De Compostela
+        month: Oct
+        pages: 3612--3619
+        code: C22
+    journal:
+      - title: Understanding Mobile App Reviews to Guide Misuse Audits.
+        authors: Vaibhav Garg, Hui Guo, Nirav Ajmeri, Saikath Bhattacharya, and Munindar P. Singh.
+        venue: Communications of the ACM (CACM)
+        volume: 67
+        number: xx
+        pages: 1--9
+        code: J16
+      - title: Macro Ethics Principles for Responsible AI Systems.
+        authors: Jessica Woodgate and Nirav Ajmeri.
+        venue: ACM Computing Surveys (ACM CSUR)
+        volume: 56
+        number: 11
+        pages: 1--37
+        doi: 10.1145/3672394
+        code: J15
+    workshop:
+      - title: Fostering Multi-Agent Cooperation through Implicit Responsibility.
+        authors: Daniel E. Collins, Conor J. Houghton, and Nirav Ajmeri.
+        venue: Proceedings of the International Workshop on Citizen-Centric Multiagent Systems (CMAS)
+        location: Auckland
+        month: May
+        pages: 1--21
+        code: W17
+    conference:
+      - title: Norm Enforcement with a Soft Touch: Faster Emergence, Happier Agents.
+        authors: Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh.
+        venue: Proceedings of the 23th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+        location: Auckland
+        month: May
+        pages: 1--9
+        code: C21
+  2023:
+    workshop:
+      - title: Its All Graph To Me: Single-Model Graph Representation Learning on Multiple Domains.
+        authors: Alex O. Davies, Riku Green, Nirav Ajmeri, and Telmo M. Silva Filho.
+        venue: Proceedings of the NeurIPS Workshop on New Frontiers in Graph Learning
+        pages: 1--15
+        code: W16
+      - title: Size Matters: Large Graph Generation with HIGGS.
+        authors: Alex O. Davies, Nirav Ajmeri, and Telmo M. Silva Filho.
+        venue: Proceedings of the NeurIPS Workshop on Synthetic Data Generation with Generative AI
+        pages: 1--19
+        code: W15
+      - title: Towards Equitable Privacy.
+        authors: Kopo M Ramokapane, Lizzie Coles-Kemp, Nikhil Patnaik, Rui Huan, Nirav Ajmeri, Genevieve Liveley, and Awais Rashid.
+        venue: Proceedings of the Workshop on Inclusive Privacy and Security (WIPS) @ SOUPS
+        month: Aug
+        pages: 1--6
+        code: W14
+      - title: Social Value Orientation and Integral Emotions in Multi-Agent Systems.
+        authors: Daniel E. Collins, Conor J. Houghton, and Nirav Ajmeri.
+        venue: Proceedings of the International Workshop on Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems (COINE)
+        location: London
+        month: May
+        pages: 1--21
+        code: W13
+    journal:
+      - title: Understanding Dynamics of Polarization via Multiagent Social Simulation.
+        authors: Amanul Haque, Nirav Ajmeri, and Munindar P. Singh.
+        venue: AI & Society: Journal of Knowledge, Culture and Communication
+        volume: 38
+        number: 4
+        pages: 1373--1389
+        doi: 10.1007/s00146-022-01626-5
+        code: J14
+  2022:
+    journal:
+      - title: Prosocial Norm Emergence in Multiagent Systems.
+        authors: Mehdi Mashayekhi, Nirav Ajmeri, George F. List, and Munindar P. Singh.
+        venue: ACM Transactions on Autonomous and Adaptive Systems (TAAS)
+        volume: 17
+        number: 1--2
+        pages: 3:1--3:24
+        doi: 10.1145/3540202
+        code: J13
+      - title: Moral and Social Ramifications of Autonomous Vehicles: A Qualitative Study of the Perceptions of Professional Drivers.
+        authors: Veljko Dubljević, Sean Douglas, Jovan Milojevich, Nirav Ajmeri, William A. Bauer, George F. List, and Munindar P. Singh.
+        venue: Behaviour & Information Technology
+        volume: 41
+        number: xx
+        month: May
+        pages: 1--15
+        code: J12
+      - title: Feature toggles as code: Heuristics and metrics for structuring feature toggles.
+        authors: Rezvan Mahdavi-Hezaveh, Nirav Ajmeri, and Laurie Williams.
+        venue: Information and Software Technology (IST)
+        volume: 145
+        month: January
+        pages: 1--14
+        doi: 10.1016/j.infsof.2021.106813
+        code: J11
+    conference:
+      - title: Socially Intelligent Genetic Agents for the Emergence of Explicit Norms.
+        authors: Rishabh Agrawal, Nirav Ajmeri, and Munindar P. Singh.
+        venue: Proceedings of the 31th International Joint Conference on Artificial Intelligence (IJCAI)
+        location: Vienna
+        month: July
+        pages: 10--16
+        code: C20
+      - title: Enhancing Creativity as Innovation via Asynchronous Crowdwork.
+        authors: Pradeep K. Murukannaiah, Nirav Ajmeri and Munindar P. Singh.
+        venue: Proceedings of the 14th ACM Web Science Conference (WebSci)
+        location: Barcelona
+        month: June
+        pages: 66--74
+        code: C19
+      - title: Macro Ethics for Governing Equitable Sociotechnical Systems.
+        authors: Jessica Woodgate and Nirav Ajmeri.
+        venue: Proceedings of the 21st International Conference on Autonomous Agents and Multiagent Systems (A
+        location: 
+        month: 
+        pages: 
+        code: 
+    workshop:
+      - title: Fleur: Social Values Orientation for Robust Norm Emergence.
+        authors: Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh.
+        venue: Proceedings of the International Workshop on Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems (COINE)
+        location: Auckland
+        month: May
+        pages: 185--200
+        code: W12
+      - title: Commitment-Based Negotiation Semantics.
+        authors: Phillip Sloan and Nirav Ajmeri.
+        venue: Proceedings of the 10th International Workshop on Engineering Multi-Agent Systems (EMAS)
+        location: Auckland
+        month: May
+        pages: 1--20
+        code: W11
+      - title: Understanding Dynamics of Polarization via Multiagent Social Simulation.
+        authors: Amanul Haque, Nirav Ajmeri, and Munindar P. Singh.
+        venue: Proceedings of the 3rd International Workshop on Autonomous Agents for Social Good (AASG)
+        location: Auckland
+        month: May
+        pages: 1--9
+        code: W10
+  2021:
+    journal:
+      - title: Toward a Rational and Ethical Sociotechnical System of Autonomous Vehicles: A Novel Application of Multi-Criteria Decision Analysis.
+        authors: Veljko Dubljević, George F. List, Jovan Milojevich, Nirav Ajmeri, William A. Bauer, Munindar P. Singh, Eleni Bardaka, Thomas A. Birkland, Charles H. W. Edwards, Roger C. Mayer, Ioan Muntean, Thomas M. Powers, Hesham A. Rakha, Vance A. Ricks, and M. Shoaib Samandar.
+        venue: PLOS One
+        volume: 16
+        number: 8
+        month: August
+        pages: 1--17
+        doi: 10.1371/journal.pone.0256224
+        code: J10
+    workshop:
+      - title: Noe: Norm Emergence and Robustness Based on Emotions in Multiagent Systems.
+        authors: Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh.
+        venue: Proceedings of the International Workshop on Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems (COINE)
+        location: London
+        month: May
+        pages: 62--77
+        code: W9
+
+north_carolina_state_university:
+  2020:
+    conference:
+      - title: Elessar: Ethics in Norm-Aware Agents.
+        authors: Nirav Ajmeri, Hui Guo, Pradeep K. Murukannaiah, and Munindar P. Singh.
+        venue: Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+        location: Auckland
+        month: May
+        pages: 16--24
+        acceptance_ratio: 23%
+        code: C17
+      - title: New Foundations of Ethical Multiagent Systems.
+        authors: Pradeep K. Murukannaiah, Nirav Ajmeri, Catholijn Jonker, and Munindar P. Singh.
+        venue: Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Blue Sky Idea Track
+        location: Auckland
+        month: May
+        pages: 1706--1710
+        award: Best Blue Sky Paper Award
+        code: C16
+    journal:
+      - title: Desen: Specification of Sociotechnical Systems via Patterns of Regulation and Control.
+        authors: Özgur Kafalı, Nirav Ajmeri, and Munindar P. Singh.
+        venue: ACM Transactions on Software Engineering and Methodology (TOSEM)
+        volume: 29
+        number: 1
+        month: January
+        pages: 7:1--7:50
+        code: J9
+  2019:
+    conference:
+      - title: The Interplay of Emotions and Norms in Multiagent Systems.
+        authors: Anup K. Kalia, Nirav Ajmeri, Kevin S. Chan, Jin-Hee Cho, Sibel Adalı, and Munindar P. Singh.
+        venue: Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI)
+        location: Macao
+        month: August
+        pages: 371--377
+        acceptance_ratio: 17.9%
+        code: C15
+      - title: Applying Norms and Sanctions to Promote Cybersecurity Hygiene.
+        authors: Shubham Goyal, Nirav Ajmeri, and Munindar P. Singh.
+        venue: Proceedings of the 18th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+        location: Montreal
+        month: May
+        pages: 1991--1993
+        code: C14
+  2018:
+    conference:
+      - title: App review analysis via active learning: Reducing supervision effort without compromising classification accuracy.
+        authors: Venkatesh T. Dhinakaran, Raseshwari Pulle, Nirav Ajmeri, and Pradeep K. Murukannaiah.
+        venue: Proceedings of the 26th IEEE International Requirements Engineering Conference (RE)
+        location: Banff, Canada
+        month: August
+        pages: 170--181
+        acceptance_ratio: 26.7%
+        code: C13
+      - title: Robust Norm Emergence by Revealing and Reasoning about Context: Socially Intelligent Agents for Enhancing Privacy.
+        authors: Nirav Ajmeri, Hui Guo, Pradeep K. Murukannaiah, and Munindar P. Singh.
+        venue: Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI)
+        location: Stockholm
+        month: July
+        pages: 28--34
+        acceptance_ratio: 20.5%
+        code: C12
+      - title: Ethics, Values, and Personal Agents: Poster.
+        authors: Nirav Ajmeri, Hui Guo, Pradeep K. Murukannaiah, and Munindar P. Singh.
+        venue: Proceedings of the 5th Symposium and Bootcamp on the Science of Security (HotSoS)
+        location: Raleigh
+        month: April
+        pages: 1--1
+        type: Poster
+        code: Poster
+    journal:
+      - title: Designing Ethical Personal Agents.
+        authors: Nirav Ajmeri, Hui Guo, Pradeep K. Murukannaiah, and Munindar P. Singh.
+        venue: IEEE Internet Computing
+        volume: 22
+        number: 2
+        month: March-April
+        pages: 16--22
+        note: Selected for inclusion in IEEE Computer Society's ComputingEdge, July 2018.
+        code: J8
+      - title: Toward Effective Adoption of Secure Software Development Practices.
+        authors: Shams Al-Amin, Nirav Ajmeri, Hongying Du, Emily Z. Berglund, and Munindar P. Singh.
+        venue: Simulation Modeling Practice and Theory (SIMPAT)
+        volume: 85
+        month: June
+        pages: 33--46
+        code: J7
+      - title: Teaching Crowdsourcing: An Experience Report.
+        authors: Hui Guo, Nirav Ajmeri, and Munindar P. Singh.
+        venue: IEEE Internet Computing
+        volume: 22
+        number: 6
+        month: December
+        pages: 44--52
+        note: Selected for inclusion in IEEE Computer Society's ComputingEdge, October 2020.
+        code: J6
+  2017:
+    conference:
+      - title: No (Privacy) News is Good News: An Analysis of New York Times and Guardian Privacy News from 2010 to 2016.
+        authors: Karthik Sheshadri, Nirav Ajmeri, and Jessica Staddon.
+        venue: Proceedings of the 15th International Conference on Privacy, Security and Trust (PST)
+        location: Calgary
+        month: August
+        pages: 159--168
+        award: Best Paper Award
+        code: C11
+      - title: Toward Automating Crowd RE.
+        authors: Pradeep K. Murukannaiah, Nirav Ajmeri, and Munindar P. Singh.
+        venue: Proceedings of the IEEE 25th International Requirements Engineering Conference (RE), Data Track
+        location: Lisbon
+        month: September
+        pages: 512--515
+        note: [Smarthome crowd requirements dataset]
+        code: C10
+      - title: Arnor: Modeling Social Intelligence via Norms to Engineer Privacy-Aware Personal Agents.
+        authors: Nirav Ajmeri, Pradeep K. Murukannaiah, Hui Guo, and Munindar P. Singh.
+        venue: Proceedings of the 16th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+        location: São Paulo
+        month: May
+        pages: 230--238
+        acceptance_ratio: 26.1%
+        code: C9
+      - title: Engineering Socially Intelligent Personal Agents via Norms.
+        authors: Nirav Ajmeri.
+        venue: Proceedings of the 16th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Doctoral Consortium
+        location: São Paulo
+        month: May
+        pages: 1822--1823
+        code: C8
+      - title: Kont: Computing Tradeoffs in Normative Multiagent Systems.
+        authors: Özgür Kafalı, Nirav Ajmeri, and Munindar P. Singh.
+        venue: Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAAI)
+        location: San Francisco
+        month: February
+        pages: 3006--3012
+        acceptance_ratio: 24.6%
+        code: C7
+    journal:
+      - title: Aragorn: Eliciting and Maintaining Secure Service Policies.
+        authors: Nirav Ajmeri, Chung-Wei Hang, Simon Parsons, and Munindar P. Singh.
+        venue: IEEE Computer
+        volume: 50
+        number: 12
+        month: December
+        pages: 50--58
+        code: J5
+  2016:
+    conference:
+      - title: Acquiring Creative Requirements from the Crowd: Understanding the Influences of Personality and Creative Potential in Crowd RE.
+        authors: Pradeep K. Murukannaiah, Nirav Ajmeri, and Munindar P. Singh.
+        venue: Proceedings of the IEEE 24th International Requirements Engineering Conference (RE)
+        location: Beijing
+        month: September
+        pages: 176--185
+        acceptance_ratio: 27.8%
+        code: C6
+      - title: Coco: Runtime Reasoning About Conflicting Commitments.
+        authors: Nirav Ajmeri, Jiaming Jiang, Rada Chirkova, Jon Doyle, and Munindar P. Singh.
+        venue: Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI)
+        location: New York
+        month: July
+        pages: 17--23
+        acceptance_ratio: 24%
+        code: C5
+      - title: Expressing and Reasoning about Conflicting Norms in Cybersecurity: Poster.
+        authors: Jiaming Jiang, Nirav Ajmeri, Rada Chirkova, Jon Doyle, and Munindar P. Singh.
+        venue: Proceedings of the 3rd Symposium and Bootcamp on the Science of Security (HotSoS)
+        location: Pittsburgh
+        month: April
+        pages: 63--64
+        type: Poster
+        code: Poster
+    workshop:
+      - title: Formal Understanding of Tradeoffs among Liveness and Safety Requirements.
+        authors: Özgür Kafalı, Nirav Ajmeri, and Munindar P. Singh.
+        venue: Proceedings of the IEEE 24th International Requirements Engineering Conference Workshops (REW)
+        location: Beijing
+        month: September
+        pages: 17--18
+        code: W8
+      - title: Normative Requirements in Sociotechnical Systems.
+        authors: Özgür Kafalı, Nirav Ajmeri, Munindar P. Singh.
+        venue: Proceedings of the IEEE 24th International Requirements Engineering Conference Workshops (REW)
+        location: Beijing
+        month: September
+        pages: 259--260
+        code: W7
+    journal:
+      - title: Revani: Revision and Verification of Normative Specifications for Privacy.
+        authors: Özgür Kafalı, Nirav Ajmeri, and Munindar P. Singh.
+        venue: IEEE Intelligent Systems
+        volume: 31
+        number: 5
+        month: September
+        pages: 1--7
+        code: J4
+      - title: Engineering Privacy in Social Applications.
+        authors: Pradeep K. Murukannaiah, Nirav Ajmeri, Munindar P. Singh.
+        venue: IEEE Internet Computing
+        volume: 20
+        number: 2
+        pages: 72--76
+        month: March
+        note: Selected for inclusion in IEEE Computer Society's ComputingEdge, August 2016.
+        code: J3
+      - title: Classifying Sanctions and Designing a Conceptual Sanctioning Process Model for Socio-Technical Systems.
+        authors: Luis G. Nardin, Tina Balke, Nirav Ajmeri, Anup K. Kalia, Jaime S. Sichman and Munindar P. Singh.
+        venue: The Knowledge Engineering Review (KER)
+        volume: 31
+        number: 2
+        pages: 142--166
+        month: March
+        code: J2
+  2015:
+    conference:
+      - title: Modeling Analytics as Knowledge Work: Computing Meets Organizational Psychology (Work-in-progress paper).
+        authors: Guangchao Yuan, Nirav Ajmeri, Chris Allred, Pankaj Telang, Mark Wilson and Munindar P. Singh.
+        venue: Proceedings of the 9th IEEE International Conference on Research Challenges in Information Science (RCIS)
+        location: Athens
+        month: May
+        pages: 382--387
+        code: C4
+      - title: Understanding Sanction under Variable Observability in a Secure, Collaborative Environment.
+        authors: Hongying Du, Bennett Y. Narron, Nirav Ajmeri, Emily Berglund, Jon Doyle and Munindar P. Singh.
+        venue: Proceedings of the 2nd Symposium and Bootcamp on the Science of Security (HotSoS)
+        location: Urbana
+        month: April
+        pages: 12:1--12:10
+        code: C3
+    workshop:
+      - title: ENGMAS– Understanding Sanction under Variable Observability in a Secure Environment.
+        authors: Hongying Du, Bennett Y. Narron, Nirav Ajmeri, Emily Berglund, Jon Doyle and Munindar P. Singh.
+        venue: Proceedings of the 2nd International Workshop on Agents and CyberSecurity (ACySE)
+        location: Istanbul
+        month: May
+        pages: 15--22
+        code: W6
+  2014:
+    workshop:
+      - title: A Model of Trust, Moods, and Emotions in Multiagent Systems and its Empirical Evaluation.
+        authors: Anup Kalia, Nirav Ajmeri, Kevin Chan, Jin-Hee Cho, Sibel Adali and Munindar P. Singh.
+        venue: Proceedings of the 17th AAMAS Workshop on Trust in Agent Societies (Trust)
+        location: Paris
+        month: May
+        pages: 1--11
+        code: W5
+  2013:
+    workshop:
+      - title: Argumentation, Evidence, and Schemes: Abstract.
+        authors: Chung-Wei Hang, Nirav Ajmeri, Munindar P. Singh, and Simon Parsons.
+        venue: Proceedings of the 10th International Workshop on Argumentation in Multi-Agent Systems (ArgMAS)
+        location: Saint-Paul
+        month: May
+        pages: 37
+        code: W4
+
+tata_research_design_and_development_centre:
+  2013:
+    journal:
+      - title: Agile Requirements Prioritization in Large-scale Outsourced System Projects: An Empirical Study.
+        authors: Maya Daneva, Egbert van der Veen, Chintan Amrit, Smita Ghaisas, Klaas Sikkel, Ramesh Kumar, Nirav Ajmeri, Uday Ramteerthkar and Roel Wieringa.
+        venue: Journal of Systems and Software (JSS)
+        volume: 86
+        issue: 5
+        pages: 1333--1353
+        month: May
+        note: Awarded the Most Influential Paper Award in 2024.
+        code: J1
+    book_chapter:
+      - title: Knowledge-assisted Ontology-based Requirements Evolution.
+        authors: Smita Ghaisas and Nirav Ajmeri.
+        venue: Managing Requirements Knowledge
+        pages: 143--167
+        publisher: Springer Berlin Heidelberg
+        code: Book Chapter        
+    other:
+      - title: Knowledge-assisted Requirements Reuse in Large Insurance Projects.
+        authors: Nirav Ajmeri, Mini. Jain, Preethu Rose, V. S. Sivakumar and Smita Ghaisas.
+        venue: TACTICS 2012.
+        code: Other
+  2011:
+    workshop:
+      - title: An Ontology-based Method and Tool for cross-Domain Requirements Visualization.
+        authors: Nirav Ajmeri, Kumar Vidhani, Manoj Bhat and Smita Ghaisas.
+        venue: Proceedings of the 4th Workshop on Managing Requirements Knowledge (MaRK)
+        location: Trento
+        month: Sep
+        pages: 22--23
+        code: W3
+    conference:
+      - title: Intelligent Informatics Platform for Nano-Agriculture.
+        authors: Preethu Rose, Manoj Bhat, Kumar Vidhani, Nirav Ajmeri, Anand Gole and Smita Ghaisas.
+        venue: Proceedings of the 11th IEEE International conference on Nanotechnology (Nano)
+        location: Portland
+        month: August
+        pages: 916--919
+        code: C2
+  2010:
+    workshop:
+      - title: A Semantic and Collaborative platform for Agile Requirements Evolution.
+        authors: Nirav Ajmeri, Riddhima Sejpal and Smita Ghaisas.
+        venue: Proceedings of the 3rd Workshop on Managing Requirements Knowledge (MaRK)
+        location: Sydney
+        month: September
+        pages: 32--40
+        code: W2
+      - title: Towards Knowledge assisted Agile Requirements Evolution.
+        authors: Manish Kumar, Nirav Ajmeri and Smita Ghaisas.
+        venue: Proceedings of the 2nd International workshop on Recommendation Systems for Software Engineering (RSSE)
+        location: Cape Town
+        month: May
+        pages: 16--20
+        code: W1
+    poster:
+      - title: Domain Knowledge Assisted Agile Requirements Evolution (K-gileRE).
+        authors: Nirav Ajmeri, Manish Kumar, Preethu Rose and Smita Ghaisas.
+        venue: Proceedings of the 3rd India Software Engineering Conference (ISEC)
+        location: Mysore
+        month: February
+        type: Poster
+        code: Poster
+  2009:
+    conference:
+      - title: A method and framework for domain knowledge assisted requirements evolution.
+        authors: Preethu Rose, Manish Kumar, Nirav Ajmeri, Manas Agrawal, V. Sivakumar and Smita Ghaisas.
+        venue: Proceedings of the International Conference on Software Engineering (CONSEG)
+        location: Chennai
+        month: December
+        pages: 87--97
+        code: C1        

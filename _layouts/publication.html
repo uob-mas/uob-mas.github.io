@@ -8,3 +8,124 @@ title: Publications
 <li><strong>{{ pub.title }}</strong> - {{ pub.authors }} ({{ pub.year }}) <a href="{{ pub.link }}">Read more</a></li>
   {% endfor %}
 </ul>
+
+<div class="publications">
+  {% assign publications = site.data.publications %}
+
+  {% for university, years in publications %}
+    <h2>Publications from {{ university | replace: '_', ' ' | capitalize }}</h2>
+
+    {% for year, types in years %}
+      <h3>{{ year }}</h3>
+
+      {% if types.conference %}
+        <h4>Conference Papers</h4>
+        <ul>
+          {% for paper in types.conference %}
+            <li>
+              [{{ paper.code }}]
+              {% if paper.authors %}{{ paper.authors }}. {% endif %}
+              {{ paper.title }}.
+              {% if paper.venue %}{{ paper.venue }}. {% endif %}
+              {% if paper.location %}{{ paper.location }}, {% endif %}
+              {% if paper.month %}{{ paper.month }}, {% endif %}
+              {% if paper.year %}{{ paper.year }}, {% endif %}
+              {% if paper.pages %}pages {{ paper.pages }}. {% endif %}
+              {% if paper.doi %}doi: {{ paper.doi }}. {% endif %}
+              {% if paper.acceptance_ratio %}Acceptance ratio: {{ paper.acceptance_ratio }}%. {% endif %}
+              {% if paper.award %}{{ paper.award }}.{% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+      {% if types.journal %}
+        <h4>Journal Papers</h4>
+        <ul>
+          {% for paper in types.journal %}
+            <li>
+              [{{ paper.code }}]
+              {% if paper.authors %}{{ paper.authors }}. {% endif %}
+              {{ paper.title }}.
+              {% if paper.venue %}{{ paper.venue }}. {% endif %}
+              {% if paper.volume %}vol {{ paper.volume }}, {% endif %}
+              {% if paper.number %}number {{ paper.number }}, {% endif %}
+              {% if paper.month %}{{ paper.month }}, {% endif %}
+              {% if paper.year %}{{ paper.year }}, {% endif %}
+              {% if paper.pages %}pages {{ paper.pages }}. {% endif %}
+              {% if paper.doi %}doi: {{ paper.doi }}. {% endif %}
+              {% if paper.note %}{{ paper.note }}. {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+      {% if types.workshop %}
+        <h4>Workshop Articles</h4>
+        <ul>
+          {% for paper in types.workshop %}
+            <li>
+              [{{ paper.code }}]
+              {% if paper.authors %}{{ paper.authors }}. {% endif %}
+              {{ paper.title }}.
+              {% if paper.venue %}{{ paper.venue }}. {% endif %}
+              {% if paper.location %}{{ paper.location }}, {% endif %}
+              {% if paper.month %}{{ paper.month }}, {% endif %}
+              {% if paper.year %}{{ paper.year }}, {% endif %}
+              {% if paper.pages %}pages {{ paper.pages }}. {% endif %}
+              {% if paper.doi %}doi: {{ paper.doi }}. {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+      {% if types.book_chapter %}
+        <h4>Book Chapters</h4>
+        <ul>
+          {% for paper in types.book_chapter %}
+            <li>
+              [{{ paper.code }}]
+              {% if paper.authors %}{{ paper.authors }}. {% endif %}
+              {{ paper.title }}.
+              {% if paper.venue %}{{ paper.venue }}. {% endif %}
+              {% if paper.pages %}pages {{ paper.pages }}. {% endif %}
+              {% if paper.publisher %}{{ paper.publisher }}. {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+      {% if types.other %}
+        <h4>Other Publications</h4>
+        <ul>
+          {% for paper in types.other %}
+            <li>
+              [{{ paper.code }}]
+              {% if paper.authors %}{{ paper.authors }}. {% endif %}
+              {{ paper.title }}.
+              {% if paper.venue %}{{ paper.venue }}. {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+      {% if types.poster %}
+        <h4>Posters</h4>
+        <ul>
+          {% for paper in types.poster %}
+            <li>
+              [{{ paper.code }}]
+              {% if paper.authors %}{{ paper.authors }}. {% endif %}
+              {{ paper.title }}.
+              {% if paper.venue %}{{ paper.venue }}. {% endif %}
+              {% if paper.location %}{{ paper.location }}, {% endif %}
+              {% if paper.month %}{{ paper.month }}, {% endif %}
+              {% if paper.year %}{{ paper.year }}, {% endif %}
+              {% if paper.pages %}pages {{ paper.pages }}. {% endif %}
+              {% if paper.doi %}doi: {{ paper.doi }}. {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</div>
