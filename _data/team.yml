@@ -1,14 +1,58 @@
 teams:
-  - name: "Dr. Jane Doe"
-    photo: "jane_doe.jpg"
-    keywords: ["Machine Learning", "AI", "Data Science"]
-    webpage: "https://janedoe.com"
-    google_scholar: "https://scholar.google.com/citations?user=XXXXX"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - name: "Nirav Ajmeri"
+    photo: "nirav-ajmeri.JPG"
+    keywords: ["Multiagent Systems", "AI", "Ethics"]
+    webpage: "https://niravajmeri.github.io"
+    google_scholar: "https://scholar.google.com/citations?user=aACjWd8AAAAJ"
+    orcid: "https://orcid.org/0000-0003-3627-097X"
 
-  - name: "Dr. John Smith"
-    photo: "john_smith.jpg"
-    keywords: ["Computational Biology", "Bioinformatics"]
-    webpage: "https://johnsmith.com"
+  - name: "Alex Davies"
+    photo: "alex-davies.JPG"
+    keywords: ["", ""]
+    webpage: "#"
     google_scholar: "https://scholar.google.com/citations?user=YYYYY"
     orcid: "https://orcid.org/0000-0000-0000-0001"
+    
+  - name: "Daniel Collins"
+    photo: "daniel-collins.JPG"
+    keywords: ["", ""]
+    webpage: "#"
+    google_scholar: "https://scholar.google.com/citations?user=YYYYY"
+    orcid: "https://orcid.org/0000-0000-0000-0001"
+    
+  - name: "Jessica Woodgate"
+    photo: "jessica-woodgate.JPG"
+    keywords: ["", ""]
+    webpage: "#"
+    google_scholar: "https://scholar.google.com/citations?user=YYYYY"
+    orcid: "https://orcid.org/0000-0000-0000-0001"
+    
+  - name: "Joseph Trevorrow"
+    photo: "joseph-trevorrow.JPG"
+    keywords: ["", ""]
+    webpage: "#"
+    google_scholar: "https://scholar.google.com/citations?user=YYYYY"
+    orcid: "https://orcid.org/0000-0000-0000-0001"                                      
+    
+  - name: "Kal Roberts"
+    photo: "kal-roberts.JPG"
+    keywords: ["", ""]
+    webpage: "#"
+    google_scholar: "https://scholar.google.com/citations?user=YYYYY"
+    orcid: "https://orcid.org/0000-0000-0000-0001"
+    
+  - name: "Vishal Joshi"
+    photo: "vishal-joshi.JPG"
+    keywords: ["", ""]
+    webpage: "#"
+    google_scholar: "https://scholar.google.com/citations?user=YYYYY"
+    orcid: "https://orcid.org/0000-0000-0000-0001"
+
+  - name: "Yining Yuan Joshi"
+    photo: "yining-yuan.JPG"
+    keywords: ["", ""]
+    webpage: "#"
+    google_scholar: "https://scholar.google.com/citations?user=YYYYY"
+    orcid: "https://orcid.org/0000-0000-0000-0001"               
+
+
