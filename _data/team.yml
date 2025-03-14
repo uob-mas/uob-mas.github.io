@@ -5,54 +5,53 @@ teams:
     webpage: "https://niravajmeri.github.io"
     google_scholar: "https://scholar.google.com/citations?user=aACjWd8AAAAJ"
     orcid: "https://orcid.org/0000-0003-3627-097X"
+    title: "Senior Lecturer in AI"
 
   - name: "Alex O. Davies"
     photo: "alex-davies.JPG"
     keywords: ["GNN", "Graphs", "Synthetic Data"]
     webpage: "https://research-information.bris.ac.uk/en/persons/alex-o-davies"
     google_scholar: "https://scholar.google.com/citations?user=hU8RDCIAAAAJ"
-    orcid: "https://orcid.org/0000-0000-0000-0001"
+    title: "PhD Student in Interactive AI"
     
   - name: "Daniel Collins"
     photo: "dan-collins.JPG"
     keywords: ["Responsibility", "Multiagent Systems"]
     webpage: "https://research-information.bris.ac.uk/en/persons/dan-e-collins"
     google_scholar: "https://scholar.google.com/citations?user=CoYPopwAAAAJ"
-    orcid: "https://orcid.org/0000-0000-0000-0001"
+    title: "PhD Student in Interactive AI"    
     
   - name: "Jessica Woodgate"
     photo: "jessica-woodgate.JPG"
-    keywords: ["Ethics", "Multiagent Systems"]
+    keywords: ["Normative Ethics", "Multiagent Systems"]
     webpage: "https://jessica-woodgate.github.io/"
     google_scholar: "https://scholar.google.com/citations?user=bHvxm3IAAAAJ"
-    orcid: "https://orcid.org/0000-0000-0000-0001"
+    title: "PhD Student in Computer Science"    
     
   - name: "Joseph Trevorrow"
-    photo: "joseph-trevorrow.png"
+    photo: "placeholder.png"
     keywords: ["Value-Alignment"]
     webpage: "https://www.bristol.ac.uk/cdt/interactive-ai/current-students/2023-cohort/trevorrow/"
-    google_scholar: "https://scholar.google.com/citations?user=YYYYY"
-    orcid: "https://orcid.org/0000-0000-0000-0001"                                      
+    title: "PhD Student in Interactive AI"    
+
     
   - name: "Kal Roberts"
     photo: "kal-roberts.JPG"
     keywords: ["Reinforcement Learning"]
     webpage: "https://www.bristol.ac.uk/cdt/interactive-ai/current-students/2022-cohort/roberts/"
-    google_scholar: "https://scholar.google.com/citations?user=YYYYY"
-    orcid: "https://orcid.org/0000-0000-0000-0001"
+    title: "PhD Student in Interactive AI"    
     
   - name: "Vishal Joshi"
     photo: "vishal-joshi.JPG"
     keywords: ["Language-Based Agents", "Table-Top Role Playing Games"]
     webpage: "https://www.bristol.ac.uk/cdt/interactive-ai/current-students/2023-cohort/joshi/"
-    google_scholar: "https://scholar.google.com/citations?user=YYYYY"
-    orcid: "https://orcid.org/0000-0000-0000-0001"
+    title: "PhD Student in Interactive AI"    
 
   - name: "Yining Yuan"
     photo: "yining-yuan.JPG"
     keywords: ["Normative Systems"]
     webpage: "https://www.linkedin.com/in/yining-yuan-15352b234/"
-    google_scholar: "https://scholar.google.com/citations?user=YYYYY"
-    orcid: "https://orcid.org/0000-0000-0000-0001"               
+    title: "PhD Student in Interactive AI"    
+
 
 

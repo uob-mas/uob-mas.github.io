@@ -11,8 +11,12 @@ title: Our Team
 <div class="team-member">
   <img src="/assets/images/{{ member.photo }}" alt="{{ member.name }}" style="width: 150px; border-radius: 8px;">
   <h3>{{ member.name }}</h3>
-  <p>Research Interests: {{ member.keywords | join: ", " }}</p>
-  <p><a href="{{ member.webpage }}">Personal Webpage</a> | <a href="{{ member.google_scholar }}">Google Scholar</a> | <a href="{{ member.orcid }}">ORCID</a></p>
+  {% if member.keywords %}<p>Interests: <em>{{ member.keywords | join: ", " }}</em></p> {% endif %}
+  <p>
+    {% if member.webpage %} <a href="{{ member.webpage }}">Web</a> | {% endif %}
+    {% if member.google_scholar %} <a href="{{ member.google_scholar }}">Scholar</a> | {% endif %} 
+    {% if member.orcid %} <a href="{{ member.orcid }}">ORCID</a> {% endif %}
+  </p>
 </div>
   {% endfor %}
 </div>

@@ -27,7 +27,7 @@ title: Publications
     {% if pub.year %}{{ pub.year }}, {% endif %}
     {% if pub.pages %}pages {{ pub.pages }}. {% endif %}
     {% if pub.doi %}doi: {{ pub.doi }}. {% endif %}
-    {% if pub.doi %}<a href="{{ pub.link }}">Read more</a> {% endif %}
+    {% if pub.link %}<a href="{{ pub.link }}">Read more</a> {% endif %}
   </li>
 {% endfor %}
 
