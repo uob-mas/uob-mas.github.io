@@ -27,7 +27,7 @@ nav {
 .nav-title {
   flex-grow: 1;
   text-align: center;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 20px;
   color: #333;
 }
