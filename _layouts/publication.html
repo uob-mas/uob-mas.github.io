@@ -1,0 +1,10 @@
+---
+layout: default
+title: Publications
+---
+<h1>Our Publications</h1>
+<ul>
+  {% for pub in site.publications %}
+<li><strong>{{ pub.title }}</strong> - {{ pub.authors }} ({{ pub.year }}) <a href="{{ pub.link }}">Read more</a></li>
+  {% endfor %}
+</ul>

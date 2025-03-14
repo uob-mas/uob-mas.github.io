@@ -1,0 +1,10 @@
+---
+layout: default
+title: Research Projects
+---
+<h1>Our Projects</h1>
+<ul>
+  {% for project in site.projects %}
+<li><strong>{{ project.title }}</strong> - {{ project.description }} <a href="{{ project.link }}">Learn more</a></li>
+  {% endfor %}
+</ul>
