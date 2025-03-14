@@ -15,6 +15,7 @@ Our team is part of the federated [Intelligent Systems Labs](https://www.bristol
 To learn more about our research and contributions, please explore our publications. If you are looking for a specific paper, tool, or dataset, feel free to reach out to [Nirav Ajmeri](https://niravajmeri.github.io). 
 
 
+<!--
 <div id="imageCarousel" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -38,4 +39,22 @@ To learn more about our research and contributions, please explore our publicati
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+</div>-->
+
+<h2>Meet the Team</h2>
+
+<div class="team-container">
+  {% for member in site.data.team.teams %}
+<div class="team-member">
+  <img src="/assets/images/team/{{ member.photo }}" alt="{{ member.name }}" style="width: 150px; border-radius: 8px;">
+  <h5><a href="{{ member.webpage }}">{{ member.name }}</a></h5>
+  <p>{{ member.title }}</p>
+  {% if member.keywords %}<p>Interests: <em>{{ member.keywords | join: ", " }}</em></p> {% endif %}
+  <p>
+    {% if member.email %} <a href="mailto:{{ member.email }}"><img src="/assets/images/email.png" style="width:24px;"/></a> {% endif %}
+    {% if member.google_scholar %} <a href="{{ member.google_scholar }}"><img src="/assets/images/google_scholar.png" style="width:24px;"/></a> {% endif %} 
+    {% if member.orcid %} <a href="{{ member.orcid }}"><img src="https://orcid.org/assets/icons/favicon.ico" style="width:24px;"/></a> {% endif %}
+  </p>
+</div>
+  {% endfor %}
 </div>
