@@ -5,7 +5,19 @@ title: Publications
 <h1>Our Publications</h1>
 <ul>
   {% for pub in site.data.publications %}
-<li><strong>{{ pub.title }}</strong> - {{ pub.authors }} ({{ pub.year }}) <a href="{{ pub.link }}">Read more</a></li>
+  <li>
+    {{ pub.authors }}
+    <emph>{{ pub.title }}</emph> 
+    {% if paper.venue %}{{ paper.venue }}. {% endif %}
+    {% if paper.volume %}vol {{ paper.volume }}, {% endif %}
+    {% if paper.number %}number {{ paper.number }}, {% endif %}    
+    {% if paper.location %}{{ paper.location }}, {% endif %}
+    {% if paper.month %}{{ paper.month }}, {% endif %}
+    {% if paper.year %}{{ paper.year }}, {% endif %}
+    {% if paper.pages %}pages {{ paper.pages }}. {% endif %}
+    {% if paper.doi %}doi: {{ paper.doi }}. {% endif %}
+    <a href="{{ pub.link }}">Read more</a>
+  </li>
   {% endfor %}
 </ul>
 
