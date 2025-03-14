@@ -9,11 +9,19 @@
   <!--<header>
     <img src="/assets/images/UoB_Black_24.png" alt="University of Bristol Logo" />
     <h1>Social AI and Multi-Agent Systems @ Bristol</h1>-->
-    <nav>
-{% for item in site.navigation %}
-  <a href="{{ item.url }}">{{ item.title }}</a>
-{% endfor %}
-    </nav>
+<nav>
+  <div class="nav-container">
+    <a href="/" class="logo">
+      <img src="/assets/images/UoB_Black_24.png" alt="Logo">
+    </a>
+    <div class="nav-title">Social AI and Multi-Agent Systems @ Bristol</div>
+    <div class="nav-links">
+      {% for item in site.navigation %}
+        <a href="{{ item.url }}">{{ item.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</nav>
 <!--  </header>-->
   <div class="content">
 {{ content }}
