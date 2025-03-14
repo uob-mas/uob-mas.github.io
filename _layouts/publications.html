@@ -7,15 +7,15 @@ title: Publications
   {% for pub in site.data.publications %}
   <li>
     {{ pub.authors }}
-    <emph>{{ pub.title }}</emph> 
-    {% if paper.venue %}{{ paper.venue }}. {% endif %}
-    {% if paper.volume %}vol {{ paper.volume }}, {% endif %}
-    {% if paper.number %}number {{ paper.number }}, {% endif %}    
-    {% if paper.location %}{{ paper.location }}, {% endif %}
-    {% if paper.month %}{{ paper.month }}, {% endif %}
-    {% if paper.year %}{{ paper.year }}, {% endif %}
-    {% if paper.pages %}pages {{ paper.pages }}. {% endif %}
-    {% if paper.doi %}doi: {{ paper.doi }}. {% endif %}
+    <em>{{ pub.title }}</em> 
+    {% if pub.venue %}{{ pub.venue }}. {% endif %}
+    {% if pub.volume %}vol {{ pub.volume }}, {% endif %}
+    {% if pub.number %}number {{ pub.number }}, {% endif %}    
+    {% if pub.location %}{{ pub.location }}, {% endif %}
+    {% if pub.month %}{{ pub.month }}, {% endif %}
+    {% if pub.year %}{{ pub.year }}, {% endif %}
+    {% if pub.pages %}pages {{ pub.pages }}. {% endif %}
+    {% if pub.doi %}doi: {{ pub.doi }}. {% endif %}
     <a href="{{ pub.link }}">Read more</a>
   </li>
   {% endfor %}
