@@ -11,13 +11,16 @@ We are part of the federated [Intelligent Systems Labs](https://www.bristol.ac.u
 <div id="imageCarousel" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="path/to/image1.jpg" class="d-block w-100" alt="Image 1">
+      <img src="/assets/images/carousel/priene.png" class="d-block w-100" alt="Operationalising Ethics for Prosociality | Schematic of a Norm-Learning Agent">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Schematic of Socially Intelligent Norm-Learning Agent</p>
+      </div>
     </div>
     <div class="carousel-item">
-      <img src="path/to/image2.jpg" class="d-block w-100" alt="Image 2">
-    </div>
-    <div class="carousel-item">
-      <img src="path/to/image3.jpg" class="d-block w-100" alt="Image 3">
+      <img src="/assets/images/carousel/top.png" class="d-block w-100" alt="Generalising Multi-Domain Graph Models | Topology Only Pre-Training">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Schematic for Topology Only Pre-Training Models.</p>
+      </div>
     </div>
   </div>
   <a class="carousel-control-prev" href="#imageCarousel" role="button" data-slide="prev">

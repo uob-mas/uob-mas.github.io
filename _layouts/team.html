@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Our Team
+title: Our Team | Social AI and Multi-Agent Systems | Nirav Ajmeri's Group at Bristol
 ---
 <h1>Meet the Team</h1>
-<p>We are a team of researchers advancing foundational AI for the societal good, focusing on the development of ethical sociotechnical systems. Our work encompasses intelligent agents and multi-agent systems, social AI, multi-agent reinforcement learning, and graph-based approaches, all while integrating normative principles to ensure that AI systems align with societal norms and values.</p>
+
+<!--<p>We are a team of researchers advancing foundational AI for the societal good, focusing on the development of ethical sociotechnical systems. Our work encompasses intelligent agents and multi-agent systems, social AI, multi-agent reinforcement learning, and graph-based approaches, all while integrating normative principles to ensure that AI systems align with societal norms and values.</p>
 <p>We are part of the federated <a href="https://www.bristol.ac.uk/research/groups/intelligent-systems/">Intelligent Systems Labs</a> at Bristol, affiliated with the <a href="https://uob-colldyn.github.io/">Collective Dynamics lab</a> and the AI lab.
-</p>
+</p>-->
+
 <div class="team-container">
   {% for member in site.data.team.teams %}
 <div class="team-member">
@@ -13,8 +15,8 @@ title: Our Team
   <h3>{{ member.name }}</h3>
   {% if member.keywords %}<p>Interests: <em>{{ member.keywords | join: ", " }}</em></p> {% endif %}
   <p>
-    {% if member.webpage %} <a href="{{ member.webpage }}">Web</a> | {% endif %}
-    {% if member.google_scholar %} <a href="{{ member.google_scholar }}">Scholar</a> | {% endif %} 
+    {% if member.webpage %} <a href="{{ member.webpage }}">Web</a> {% endif %}
+    {% if member.google_scholar %} <a href="{{ member.google_scholar }}">Scholar</a> {% endif %} 
     {% if member.orcid %} <a href="{{ member.orcid }}">ORCID</a> {% endif %}
   </p>
 </div>
