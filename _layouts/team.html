@@ -11,13 +11,14 @@ title: Our Team | Social AI and Multi-Agent Systems | Nirav Ajmeri's Group at Br
 <div class="team-container">
   {% for member in site.data.team.teams %}
 <div class="team-member">
-  <img src="/assets/images/{{ member.photo }}" alt="{{ member.name }}" style="width: 150px; border-radius: 8px;">
-  <h4>{{ member.name }}</h4>
+  <img src="/assets/images/team/{{ member.photo }}" alt="{{ member.name }}" style="width: 150px; border-radius: 8px;">
+  <h5><a href="{{ member.webpage }}">{{ member.name }}</a></h5>
+  <p>{{ member.title }</p>
   {% if member.keywords %}<p>Interests: <em>{{ member.keywords | join: ", " }}</em></p> {% endif %}
   <p>
-    {% if member.webpage %} <a href="{{ member.webpage }}">Web</a> {% endif %}
-    {% if member.google_scholar %} <a href="{{ member.google_scholar }}">Scholar</a> {% endif %} 
-    {% if member.orcid %} <a href="{{ member.orcid }}">ORCID</a> {% endif %}
+    {% if member.email %} <a href="{{ member.email }}"><img src="/assets/images/email.png" style="width:24px;"/></a> {% endif %}
+    {% if member.google_scholar %} <a href="{{ member.google_scholar }}"><img src="/assets/images/google_scholar.png" style="width:24px;"/></a> {% endif %} 
+    {% if member.orcid %} <a href="{{ member.orcid }}"><img src="https://orcid.org/assets/icons/favicon.ico" style="width:24px;"/></a> {% endif %}
   </p>
 </div>
   {% endfor %}
