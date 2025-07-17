@@ -1,27 +1,39 @@
 # _data/publications.yml
+
+- year: 2025
+  type: workshop
+  title: EnvCraft: A Modular Environment Design Framework for Investigating Prosocial Incentives
+  authors: Daniel E. Collins, Conor J. Houghton, and Nirav Ajmeri
+  venue: Proceedings of the International Workshop on Citizen-Centric Multiagent Systems (CMAS)
+  location: Detroit
+  month: May
+  pages: 40--46
+  code: W19
+  
 - year: 2025       
+  type: conference 
   title: Combining Normative Ethics Principles to Learn Prosocial Behaviour
   authors: Jessica Woodgate and Nirav Ajmeri
   venue: Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
   location: Detroit
   month: May
-  pages: 1--3
+  pages: 2789--2791
   code: C24
-  type: conference 
-  link: AAMAS25-Prine.pdf
+  link: AAMAS25-Priene.pdf
 
 - year: 2025
+  type: journal  
   title: A Comparative Study of GNNs and Rule-Based Methods for Synthetic Social Network Generation
   authors: Alex O. Davies, Nirav Ajmeri, and Telmo M. Silva Filho
   venue: IEEE Access
   volume: 13
   pages: 32198--32210
   doi: 10.1109/ACCESS.2025.3541091
-  type: journal  
   code: J18
   link: Access25-Resonet.pdf
 
 - year: 2025
+  type: workshop
   title: A Metric for the Balance of Information in Graph Learning
   authors: Alex O. Davies, Nirav Ajmeri, and Telmo M. Silva Filho
   venue: Proceedings of the 4th Annual AAAI Workshop on AI to Accelerate Science and Engineering (AI2ASE)
@@ -29,17 +41,17 @@
   month: Feb
   pages: 1--5
   code: W18
-  type: workshop
 
 - year: 2025
+  type: conference
   title: Operationalising Rawlsian Ethics for Fairness in Norm-Learning Agents
   authors: Jessica Woodgate, Paul Marshall, and Nirav Ajmeri
   venue: Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI)
   location: Philadelphia
   month: Feb
-  pages: 1--9
+  pages: 26382--26390
+  doi: 10.1609/aaai.v39i25.34837
   code: C23
-  type: conference
   link: AAAI25-Rawle.pdf
 
 - year: 2024
