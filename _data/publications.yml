@@ -1,6 +1,20 @@
 # _data/publications.yml
 
 - year: 2025
+  key: Garg+CACM25-Audits
+  type: journal
+  title: Understanding Mobile App Reviews to Guide Misuse Audits
+  author: Vaibhav Garg and Hui Guo and Nirav Ajmeri and Saikath Bhattacharya and Munindar P. Singh
+  venue: Communications of the ACM (CACM)
+  volume: 68
+  number: 8
+  pages: 62--71
+  month: Jul
+  doi: 10.1145/3685528
+  code: J18
+  link: CACM25-Audits
+
+- year: 2025
   type: workshop
   title: "EnvCraft: A Modular Environment Design Framework for Investigating Prosocial Incentives"
   authors: Daniel E. Collins, Conor J. Houghton, and Nirav Ajmeri
@@ -9,6 +23,7 @@
   month: May
   pages: 40--46
   code: W19
+  link: CMAS25-EnvCraft
   
 - year: 2025       
   type: conference 
@@ -18,6 +33,7 @@
   location: Detroit
   month: May
   pages: 2789--2791
+  doi: 10.5555/3709347.3744013
   code: C24
   link: AAMAS25-Priene.pdf
 
@@ -29,7 +45,7 @@
   volume: 13
   pages: 32198--32210
   doi: 10.1109/ACCESS.2025.3541091
-  code: J18
+  code: J17
   link: Access25-Resonet.pdf
 
 - year: 2025
@@ -60,8 +76,10 @@
   authors: Seth Bullock, Nirav Ajmeri, Mike Batty, Michaela Black, John Cartlidge, Robert Challen, Cangxiong Chen, Jing Chen, Joan Condell, Leon Danon, Adam Dennett, Alison Heppenstall, Paul Marshall, Phil Morgan, Aisling O'Kane, Laura G. E. Smith, Theresa Smith, and Hywel T. P. Williams
   venue: Knowledge Engineering Review (KER)
   volume: 39
-  pages: 1--23
-  code: J17
+  month: Dec
+  pages: 1--19
+  doi: 10.1017/S0269888924000110
+  code: J16
 
 - year: 2024
   type: conference
@@ -71,17 +89,8 @@
   location: Santiago De Compostela
   month: Oct
   pages: 3612--3619
+  doi: 10.3233/FAIA240917
   code: C22
-
-- year: 2024
-  type: journal
-  title: Understanding Mobile App Reviews to Guide Misuse Audits
-  authors: Vaibhav Garg, Hui Guo, Nirav Ajmeri, Saikath Bhattacharya, and Munindar P. Singh
-  venue: Communications of the ACM (CACM)
-  volume: 67
-  number: xx
-  pages: 1--9
-  code: J16
 
 - year: 2024
   type: journal
@@ -111,7 +120,8 @@
   venue: Proceedings of the 23th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
   location: Auckland
   month: May
-  pages: 1--9
+  pages: 1837--1846
+  doi: 10.5555/3635637.3663046
   code: C21
 
 - year: 2023
@@ -146,7 +156,8 @@
   venue: Proceedings of the International Workshop on Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems (COINE)
   location: London
   month: May
-  pages: 1--21
+  pages: 118--138
+  doi: 10.1007/978-3-031-49133-7_7
   code: W13
 
 - year: 2023
