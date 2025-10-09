@@ -11,7 +11,7 @@ teams:
   - name: "Alex O. Davies"
     photo: "alex-davies.JPG"
     keywords: ["GNN", "Graphs", "Synthetic Data"]
-    webpage: "https://research-information.bris.ac.uk/en/persons/alex-o-davies"
+    webpage: "https://uk.linkedin.com/in/alex-davies-4b7baa165"
     google_scholar: "https://scholar.google.com/citations?user=hU8RDCIAAAAJ"
     title: "EPSRC Doctoral Impact Fellow"
     email: "alexander.davies@bristol.ac.uk"
@@ -43,7 +43,7 @@ teams:
   - name: "Joseph Trevorrow"
     photo: "joseph-trevorrow.jpg"
     keywords: ["Value-Alignment"]
-    webpage: "https://www.bristol.ac.uk/cdt/interactive-ai/current-students/2023-cohort/trevorrow/"
+    webpage: "https://josephtrevorrow.github.io/"
     title: "PhD Student in Interactive AI"   
     email: "j.trevorrow@bristol.ac.uk" 
 
