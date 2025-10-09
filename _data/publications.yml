@@ -13,7 +13,7 @@
 
 - year: 2025
   type: workshop
-  title: "Towards LLM-Agents That Play Dungeons \& Dragons Using Iterative Prompting"
+  title: "Towards LLM-Agents That Play Dungeons & Dragons Using Iterative Prompting"
   authors: Vishal Joshi, Kenton O'Hara, and Nirav Ajmeri
   venue: Proceedings of the 1st Workshop on Artificial Intelligence for Human-Game Interaction (AI4HGI@ECAI)
   location: Bologna
