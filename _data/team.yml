@@ -13,7 +13,7 @@ teams:
     keywords: ["GNN", "Graphs", "Synthetic Data"]
     webpage: "https://research-information.bris.ac.uk/en/persons/alex-o-davies"
     google_scholar: "https://scholar.google.com/citations?user=hU8RDCIAAAAJ"
-    title: "PhD Student in Interactive AI"
+    title: "EPSRC Doctoral Impact Fellow"
     email: "alexander.davies@bristol.ac.uk"
     
   - name: "Daniel Collins"
@@ -31,6 +31,14 @@ teams:
     google_scholar: "https://scholar.google.com/citations?user=bHvxm3IAAAAJ"
     title: "PhD Student in Computer Science"    
     email: "jessica.woodgate@bristol.ac.uk"
+
+  - name: "Jono Vincent"
+    photo: "jono-vincent.JPG"
+    keywords: ["Reinforcement Learning"]
+    webpage: "https://research-information.bris.ac.uk/en/persons/jono-p-vincent"
+    title: "PhD Student in Practice-Oriented AI"  
+    email: "yz24943@bristol.ac.uk"  
+
     
   - name: "Joseph Trevorrow"
     photo: "joseph-trevorrow.jpg"

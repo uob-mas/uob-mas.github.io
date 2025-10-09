@@ -1,10 +1,32 @@
 # _data/publications.yml
 
 - year: 2025
+  type: workshop
+  title: "Hierarchical Consensus Value Aggregation for Value-Aligned Multi-Agent Systems"
+  authors: Joseph Trevorrow and Nirav Ajmeri
+  venue: Proceedings of the 3rd International Workshop on Value Engineering in AI (VALE@ECAI)
+  location: Bologna
+  month: Oct
+  pages: 1--24
+  code: W21
+  link: VALE25-HCVA
+
+- year: 2025
+  type: workshop
+  title: "Towards LLM-Agents That Play Dungeons \& Dragons Using Iterative Prompting"
+  authors: Vishal Joshi, Kenton O'Hara, and Nirav Ajmeri
+  venue: Proceedings of the 1st Workshop on Artificial Intelligence for Human-Game Interaction (AI4HGI@ECAI)
+  location: Bologna
+  month: Oct
+  pages: 1--24
+  code: W20
+  link: AI4HGI25-DnD
+
+- year: 2025
   key: Garg+CACM25-Audits
   type: journal
   title: Understanding Mobile App Reviews to Guide Misuse Audits
-  authors: Vaibhav Garg, Hui Guo, Nirav Ajmeri, Saikath Bhattacharya, Munindar P. Singh
+  authors: Vaibhav Garg, Hui Guo, Nirav Ajmeri, Saikath Bhattacharya, and Munindar P. Singh
   venue: Communications of the ACM (CACM)
   volume: 68
   number: 8
