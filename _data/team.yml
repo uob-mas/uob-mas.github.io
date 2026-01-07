@@ -5,8 +5,8 @@ teams:
     webpage: "https://niravajmeri.github.io"
     google_scholar: "https://scholar.google.com/citations?user=aACjWd8AAAAJ"
     orcid: "https://orcid.org/0000-0003-3627-097X"
-    title: "Senior Lecturer in AI"
-    email: "nirav.ajmeri@bristol.ac.uk"
+    title: Senior Lecturer in AI
+    email: nirav.ajmeri@bristol.ac.uk
 
   - name: "Alex O. Davies"
     photo: "alex-davies.JPG"
@@ -14,8 +14,8 @@ teams:
     webpage: "https://uk.linkedin.com/in/alex-davies-4b7baa165"
     google_scholar: "https://scholar.google.com/citations?user=hU8RDCIAAAAJ"
     orcid: "https://orcid.org/0000-0002-5174-5657"
-    title: "EPSRC Doctoral Impact Fellow"
-    email: "alexander.davies@bristol.ac.uk"
+    title: EPSRC Doctoral Impact Fellow
+    email: alexander.davies@bristol.ac.uk
     
   - name: "Daniel Collins"
     photo: "dan-collins.JPG"
@@ -23,7 +23,7 @@ teams:
     webpage: "https://research-information.bris.ac.uk/en/persons/dan-e-collins"
     google_scholar: "https://scholar.google.com/citations?user=CoYPopwAAAAJ"
     orcid: "https://orcid.org/0000-0002-1075-4063"    
-    title: "PhD Student in Interactive AI"   
+    title: PhD Student in Interactive AI   
     email: daniel.collins@bristol.ac.uk 
     
   - name: "Jessica Woodgate"
@@ -32,45 +32,46 @@ teams:
     webpage: "https://jessica-woodgate.github.io/"
     google_scholar: "https://scholar.google.com/citations?user=bHvxm3IAAAAJ"
     orcid: "https://orcid.org/0000-0001-9039-846X"
-    title: "PhD Student in Computer Science"    
-    email: "jessica.woodgate@bristol.ac.uk"
+    title: PhD Student in Computer Science   
+    email: jessica.woodgate@bristol.ac.uk
 
   - name: "Jono Vincent"
     photo: "placeholder.png"
-    keywords: ["Reinforcement Learning"]
+    keywords: ["Adversarial Learning"]
     webpage: "https://research-information.bris.ac.uk/en/persons/jono-p-vincent"
-    title: "PhD Student in Practice-Oriented AI"  
-    email: "yz24943@bristol.ac.uk"  
+    title: PhD Student in Practice-Oriented AI 
+    email: yz24943@bristol.ac.uk  
     
   - name: "Joseph Trevorrow"
     photo: "joseph-trevorrow.jpg"
     keywords: ["Value-Alignment"]
     webpage: "https://josephtrevorrow.github.io/"
+    google_scholar: "https://scholar.google.com/citations?user=5zHZTjYAAAAJ"
     orcid: "https://orcid.org/0000-0002-8668-1454"
-    title: "PhD Student in Interactive AI"   
-    email: "j.trevorrow@bristol.ac.uk" 
+    title: PhD Student in Interactive AI
+    email: j.trevorrow@bristol.ac.uk
 
   - name: "Kal Roberts"
     photo: "kal-roberts.JPG"
     keywords: ["Reinforcement Learning"]
     webpage: "https://www.bristol.ac.uk/cdt/interactive-ai/current-students/2022-cohort/roberts/"
-    title: "PhD Student in Interactive AI"  
-    email: "kal.roberts@bristol.ac.uk"  
+    title: PhD Student in Interactive AI
+    email: kal.roberts@bristol.ac.uk
     
   - name: "Vishal Joshi"
     photo: "vishal-joshi.JPG"
     keywords: ["Language-Based Agents", "Table-Top Role Playing Games"]
     webpage: "https://www.bristol.ac.uk/cdt/interactive-ai/current-students/2023-cohort/joshi/"
     orcid: "https://orcid.org/0009-0001-9716-409X"
-    title: "PhD Student in Interactive AI"    
-    email: "we19383@bristol.ac.uk"
+    title: PhD Student in Interactive AI    
+    email: we19383@bristol.ac.uk
 
   - name: "Yining Yuan"
     photo: "yining-yuan.JPG"
     keywords: ["Normative Systems"]
     webpage: "https://www.linkedin.com/in/yining-yuan-15352b234/"
     orcid: "https://orcid.org/0009-0000-3093-5526"
-    title: "PhD Student in Computer Science"    
+    title: PhD Student in Computer Science    
     email: yining.yuan@bristol.ac.uk
 
 
