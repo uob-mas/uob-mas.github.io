@@ -1,5 +1,40 @@
 # _data/publications.yml
 
+- year: 2026       
+  type: conference 
+  title: "Guiding Sociotechnical Systems toward Value-Norm Equilibrium"
+  authors: Nirav Ajmeri, Marina De Vos, Davide Dell'Anna, Pradeep K. Murukannaiah, Vivek Nallur, Luis G. Nardin, and Munindar P. Singh
+  venue: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+  location: Paphos
+  month: May
+  pages: 3869--3875
+  doi: 10.65109/NSZQ3158
+  code: C26
+  link: AAMAS26-ValueNormEQ.pdf
+  
+- year: 2026
+  type: journal
+  title: "Language Models Do Not Embed Numbers Continuously (Student Abstract)"
+  authors: Alex O. Davies, Roussel N. Ngueguin, Nirav Ajmeri, and Telmo M. Silva Filho
+  venue: Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI)
+  location: Singapore
+  month: Jan
+  pages: 41180--41181
+  doi: 10.1609/aaai.v40i48.42206 
+  code: O
+  link: AAAI26-NumberEmbedding.pdf
+
+- year: 2026
+  type: journal
+  title: "Topology Only Pre-Training: Towards Generalised Multi-Domain Graph Models"
+  authors: Alex O Davies, Riku Green, Telmo M Silva Filho, and Nirav Ajmeri
+  venue: Data Mining and Knowledge Discovery
+  volume: 40
+  pages: 44:1--44:42
+  doi: 10.1007/s10618-026-01210-1
+  code: J19
+  link: DAMI26-ToP.pdf
+
 - year: 2025
   type: workshop
   title: "Hierarchical Consensus Value Aggregation for Value-Aligned Multi-Agent Systems"
@@ -210,10 +245,11 @@
   title: "Moral and Social Ramifications of Autonomous Vehicles: A Qualitative Study of the Perceptions of Professional Drivers"
   authors: Veljko Dubljević, Sean Douglas, Jovan Milojevich, Nirav Ajmeri, William A. Bauer, George F. List, and Munindar P. Singh
   venue: Behaviour & Information Technology
-  volume: 41
-  number: xx
+  volume: 42
+  number: 9
   month: May
-  pages: 1--15
+  pages: 1271--1278
+  doi: 10.1080/0144929X.2022.2070078
   code: J12
 
 - year: 2022
@@ -235,6 +271,7 @@
   location: Vienna
   month: July
   pages: 10--16
+  doi: 10.24963/ijcai.2022/2 
   code: C20
 
 - year: 2022
@@ -245,6 +282,7 @@
   location: Barcelona
   month: June
   pages: 66--74
+  doi: 10.1145/3501247.3531555
   code: C19
 
 - year: 2022
@@ -255,6 +293,7 @@
   location: Auckland
   month: May
   pages: 1824--1828
+  doi: 10.5555/3535850.3536118
   code: C18
 
 - year: 2022
@@ -265,16 +304,18 @@
   location: Auckland
   month: May
   pages: 185--200
+  doi: 10.1007/978-3-031-20845-4_12
   code: W12
 
 - year: 2022
   type: workshop
-  title: Commitment-Based Negotiation Semantics
+  title: Commitment-Based Negotiation Semantics for Accountability in Multi-Agent Systems
   authors: Phillip Sloan and Nirav Ajmeri
   venue: Proceedings of the 10th International Workshop on Engineering Multi-Agent Systems (EMAS)
   location: Auckland
   month: May
   pages: 1--20
+  doi: 10.1007/s10472-023-09875-w
   code: W11
 
 - year: 2022
