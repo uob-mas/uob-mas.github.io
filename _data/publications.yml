@@ -4,11 +4,12 @@
   type: conference 
   title: "Guiding Sociotechnical Systems toward Value-Norm Equilibrium"
   authors: Nirav Ajmeri, Marina De Vos, Davide Dell'Anna, Pradeep K. Murukannaiah, Vivek Nallur, Luis G. Nardin, and Munindar P. Singh
-  venue: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+  venue: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Blue Sky Idea Track
   location: Paphos
   month: May
   pages: 3869--3875
   doi: 10.65109/NSZQ3158
+  award: Best Blue Sky Paper Award (Runner-Up)
   code: C26
   link: AAMAS26-ValueNormEQ.pdf
   
