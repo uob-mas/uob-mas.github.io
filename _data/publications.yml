@@ -2,6 +2,30 @@
 
 - year: 2026       
   type: conference 
+  title: "Hybrid Sanctioning for Improved Social Norms Compliance"
+  authors: Nirav Ajmeri
+  venue: Proceedings of the 23rd European Conference on Multi-Agent Systems (EUMAS)
+  location: Malmö
+  month: May
+  pages: 1--18
+  x_doi: 10.65109/NSZQ3158
+  code: C27
+  link: EUMAS26-Hyena.pdf
+
+- year: 2026       
+  type: workshop 
+  title: Reframing Transparency, Interpretability, and Explainability for Multi-Agent Systems
+  authors: Jessica Woodgate, Daniel E. Collins, Yining Yuan, and Nirav Ajmeri
+  venue: Proceedings of the International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE)
+  location: Paphos
+  month: May
+  pages: 1--2791
+  x_doi: 10.5555/3709347.3744013
+  code: W22
+  link: COINE26-TIE.pdf
+
+- year: 2026       
+  type: conference 
   title: "Guiding Sociotechnical Systems toward Value-Norm Equilibrium"
   authors: Nirav Ajmeri, Marina De Vos, Davide Dell'Anna, Pradeep K. Murukannaiah, Vivek Nallur, Luis G. Nardin, and Munindar P. Singh
   venue: Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Blue Sky Idea Track
