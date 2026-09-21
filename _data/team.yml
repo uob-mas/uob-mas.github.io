@@ -36,9 +36,9 @@ teams:
     email: jessica.woodgate@bristol.ac.uk
 
   - name: "Jono Vincent"
-    photo: "placeholder.png"
-    keywords: ["Adversarial Learning"]
-    webpage: "https://research-information.bris.ac.uk/en/persons/jono-p-vincent"
+    photo: "jono-vincent.png"
+    keywords: ["Adversarial Learning, Multiagent RL"]
+    webpage: "https://jonovincent-proai.github.io/personal_page/"
     title: PhD Student in Practice-Oriented AI 
     email: yz24943@bristol.ac.uk  
     
