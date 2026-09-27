@@ -94,7 +94,7 @@
   month: Jul
   doi: 10.1145/3685528
   code: J18
-  link: CACM25-Audits
+  link: CACM24-MisuseAudits.pdf
 
 - year: 2025
   type: workshop
@@ -162,6 +162,7 @@
   pages: 1--19
   doi: 10.1017/S0269888924000110
   code: J16
+  link: KER24-AI4CI.pdf
 
 - year: 2024
   type: conference
@@ -173,6 +174,7 @@
   pages: 3612--3619
   doi: 10.3233/FAIA240917
   code: C22
+  link: ECAI24-Exanna.pdf
 
 - year: 2024
   type: journal
@@ -205,6 +207,7 @@
   pages: 1837--1846
   doi: 10.5555/3635637.3663046
   code: C21
+  link: AAMAS24-NEST.pdf
 
 - year: 2023
   type: workshop
@@ -264,6 +267,7 @@
   pages: 3:1--3:24
   doi: 10.1145/3540202
   code: J13
+  link: TAAS22-Cha.pdf
 
 - year: 2022
   type: journal
@@ -287,6 +291,7 @@
   pages: 1--14
   doi: 10.1016/j.infsof.2021.106813
   code: J11  
+  link: IST22-FeatureToggles.pdf
   
 - year: 2022
   type: conference
@@ -298,6 +303,7 @@
   pages: 10--16
   doi: 10.24963/ijcai.2022/2 
   code: C20
+  link: IJCAI22-SIGA.pdf
 
 - year: 2022
   type: conference
@@ -309,6 +315,7 @@
   pages: 66--74
   doi: 10.1145/3501247.3531555
   code: C19
+  link: WebSci22-Creativity.pdf
 
 - year: 2022
   type: conference
@@ -373,6 +380,7 @@
   location: London
   month: May
   pages: 62--77
+  doi: 10.1007/978-3-031-16617-4_5
   code: W9
 
 - year: 2020
@@ -383,6 +391,8 @@
   location: Auckland
   month: May
   pages: 16--24
+  doi: 10.5555/3398761.3398769
+  link: AAMAS20-Elessar.pdf
   acceptance_ratio: 23%
   code: C17
 
@@ -394,6 +404,8 @@
   location: Auckland
   month: May
   pages: 1706--1710
+  doi: 10.5555/3398761.3398958
+  link: AAMAS20-EthicalMAS-BlueSky.pdf
   award: Best Blue Sky Paper Award
   code: C16
 
@@ -406,6 +418,8 @@
   number: 1
   month: January
   pages: 7:1--7:50
+  doi: 10.1145/3365664
+  link: kafali-tosem19-desen.pdf
   code: J9
 
 - year: 2019
@@ -416,6 +430,8 @@
   location: Macao
   month: August
   pages: 371--377
+  doi: 10.5555/3367032.3367086
+  link: kalia-ijcai19-emotion.pdf
   acceptance_ratio: 17.9%
   code: C15
 
@@ -427,6 +443,8 @@
   location: Montreal
   month: May
   pages: 1991--1993
+  doi: 10.5555/3306127.3331987
+  link: goyal-aamas19-applying+preprint.pdf
   code: C14
 
 - year: 2018
@@ -437,6 +455,8 @@
   location: Banff
   month: August
   pages: 170--181
+  doi: 10.1109/RE.2018.00026
+  link: Dhinakaran-RE18-ActiveAppReview.pdf
   acceptance_ratio: 26.7%
   code: C13
 
@@ -448,6 +468,8 @@
   location: Stockholm
   month: July
   pages: 28--34
+  doi: 10.5555/3304415.3304421
+  link: IJCAI18-Poros.pdf
   acceptance_ratio: 20.5%
   code: C12
 
@@ -470,6 +492,8 @@
   number: 2
   month: March-April
   pages: 16--22
+  doi: 10.1109/MIC.2018.022021658
+  link: IC18-Ethical.pdf
   note: Selected for inclusion in IEEE Computer Society's ComputingEdge, July 2018
   code: J8  
   
@@ -481,6 +505,8 @@
   volume: 85
   month: June
   pages: 33--46
+  doi: 10.1016/j.simpat.2018.03.006
+  link: AlAmin-SIMPAT18-SecurePractices.pdf
   code: J7
 
 - year: 2018
@@ -492,6 +518,8 @@
   number: 6
   month: December
   pages: 44--52
+  doi: 10.1109/MIC.2018.2881515
+  link: Guo-IC18-Teaching.pdf
   note: Selected for inclusion in IEEE Computer Society's ComputingEdge, October 2020
   code: J6
 
@@ -503,6 +531,8 @@
   location: Calgary
   month: August
   pages: 159--168
+  doi: 10.1109/PST.2017.00027
+  link: Sheshadri-PST17-PrivacyNews.pdf
   award: Best Paper Award
   code: C11
 
@@ -514,6 +544,8 @@
   location: Lisbon
   month: September
   pages: 512--515
+  doi: 10.1109/RE.2017.74
+  link: Murukannaiah-RE2017-Data-CrowdRE.pdf
   note: [Smarthome crowd requirements dataset]
   code: C10
 
@@ -525,6 +557,8 @@
   location: São Paulo
   month: May
   pages: 230--238
+  doi: 10.5555/3091125.3091163
+  link: AAMAS17-Arnor.pdf
   acceptance_ratio: 26.1%
   code: C9
 
@@ -536,6 +570,8 @@
   location: São Paulo
   month: May
   pages: 1822--1823
+  doi: 10.5555/3091125.3091453
+  link: AAMAS17-SIPA.pdf
   code: C8
 
 - year: 2017
@@ -547,6 +583,8 @@
   number: 12
   month: December
   pages: 50--58
+  doi: 10.1109/MC.2017.4451210
+  link: COMPUTER17-Aragorn.pdf
   code: J5
 
 - year: 2017
@@ -557,6 +595,8 @@
   location: San Francisco
   month: February
   pages: 3006--3012
+  doi: 10.5555/3298483.3298671
+  link: Kafali-AAAI17-Kont.pdf
   acceptance_ratio: 24.6%
   code: C7
 
@@ -568,6 +608,8 @@
   location: Beijing
   month: September
   pages: 176--185
+  doi: 10.1109/RE.2016.68
+  link: Murukannaiah-RE16-Creativity.pdf
   acceptance_ratio: 27.8%
   code: C6
 
@@ -593,13 +635,15 @@
 
 - year: 2016
   type: journal
-  title: "Revani: Revision and Verification of Normative Specifications for Privacy"
+  title: "Revani: Revising and Verifying Normative Specifications for Privacy"
   authors: Özgür Kafalı, Nirav Ajmeri, and Munindar P. Singh
   venue: IEEE Intelligent Systems
   volume: 31
   number: 5
   month: September
   pages: 1--7
+  doi: 10.1109/MIS.2016.89
+  link: IS-16-Revani.pdf
   code: J4
 
 - year: 2016
@@ -610,6 +654,8 @@
   location: New York
   month: July
   pages: 17--23
+  doi: 10.5555/3060621.3060624
+  link: IJCAI16-Coco.pdf
   acceptance_ratio: 24%
   code: C5
 
@@ -621,6 +667,7 @@
   location: Pittsburgh
   month: April
   pages: 63--64
+  link: Jiang-HotSoS16-Conflict.pdf
   code: Poster
 
 - year: 2016
@@ -632,6 +679,8 @@
   number: 2
   pages: 72--76
   month: March
+  doi: 10.1109/MIC.2016.30
+  link: Murukannaiah-IC16-EnggPrivacy.pdf
   note: Selected for inclusion in IEEE Computer Society's ComputingEdge, August 2016
   code: J3
 
@@ -644,6 +693,8 @@
   number: 2
   pages: 142--166
   month: March
+  doi: 10.1017/S0269888916000023 
+  link: Nardin-KER16-Sanction.pdf
   code: J2
 
 - year: 2015
@@ -654,6 +705,8 @@
   location: Athens
   month: May
   pages: 382--387
+  doi: 10.1109/RCIS.2015.7128899
+  link: Yuan-RCIS15-Analytic.pdf
   code: C4
 
 - year: 2015
@@ -705,6 +758,8 @@
   issue: 5
   pages: 1333--1353
   month: May
+  doi: 10.1016/j.jss.2012.12.046
+  link: Daneva-JSS13-AgileReq.pdf
   note: Awarded the Most Influential Paper Award in 2024.
   code: J1
 
@@ -715,6 +770,8 @@
   venue: Managing Requirements Knowledge
   pages: 143--167
   publisher: Springer Berlin Heidelberg
+  doi: 10.1007/978-3-642-34419-0_7
+  link: Ghaisas-Mark13-KRE.pdf
   code: Book Chapter
 
 - year: 2012
@@ -732,6 +789,8 @@
   location: Trento
   month: Sep
   pages: 22--23
+  link: Mark11-CrossDomainReq.pdf
+  doi: 10.1109/MARK.2011.6046558
   code: W3
 
 - year: 2011
@@ -742,6 +801,7 @@
   location: Portland
   month: August
   pages: 916--919
+  link: Rose-Nano11-NAIS.pdf
   code: C2
 
 - year: 2010
@@ -752,6 +812,7 @@
   location: Sydney
   month: September
   pages: 32--40
+  link: Mark10-KgileRE.pdf
   code: W2
 
 - year: 2010
@@ -762,6 +823,8 @@
   location: Cape Town
   month: May
   pages: 16--20
+  doi: 10.1145/1808920.1808924
+  link: Kumar-RSSE10-ReqEvolution.pdf
   code: W1
 
 - year: 2010
@@ -771,6 +834,7 @@
   venue: Proceedings of the 3rd India Software Engineering Conference (ISEC)
   location: Mysore
   month: February
+  link: ISEC-KgileRE-poster.pdf
   code: Poster
 
 - year: 2009
@@ -781,6 +845,7 @@
   location: Chennai
   month: December
   pages: 87--97
+  link: Rose-Conseg09.pdf
   code: C1
 
     
