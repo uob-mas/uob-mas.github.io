@@ -12,8 +12,7 @@ Our research seeks to facilitate interactions between computational agents and s
 We are based in the [School of Computer Science](https://www.bristol.ac.uk/science-engineering/schools/computer-science/) at the [University of Bristol](https://www.bristol.ac.uk). 
 Our team is part of the federated [Intelligent Systems Labs](https://www.bristol.ac.uk/research/groups/intelligent-systems/), which comprises several units focussing on AI, machine learning, and data science research. We are affiliated with the [Collective Dynamics lab](https://uob-colldyn.github.io/) and the [AI lab](https://uob-ai-lab.github.io/) units.
 
-To learn more about our research and contributions, please explore our publications. If you are looking for a specific paper, tool, or dataset, feel free to reach out to [Nirav Ajmeri](https://niravajmeri.github.io). 
-
+To learn more about our research and contributions, please explore our [publications](/publications/) or [meet the team](/team/). If you are looking for a specific paper, tool, or dataset, feel free to reach out to [Nirav](https://niravajmeri.github.io).
 
 <!--
 <div id="imageCarousel" class="carousel slide" data-ride="carousel">

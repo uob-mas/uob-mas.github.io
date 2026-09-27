@@ -7,15 +7,6 @@ teams:
     orcid: "https://orcid.org/0000-0003-3627-097X"
     title: Senior Lecturer in AI
     email: nirav.ajmeri@bristol.ac.uk
-
-  - name: "Alex O. Davies"
-    photo: "alex-davies.JPG"
-    keywords: ["GNN", "Graphs", "Synthetic Data"]
-    webpage: "https://uk.linkedin.com/in/alex-davies-4b7baa165"
-    google_scholar: "https://scholar.google.com/citations?user=hU8RDCIAAAAJ"
-    orcid: "https://orcid.org/0000-0002-5174-5657"
-    title: EPSRC Doctoral Impact Fellow
-    email: alexander.davies@bristol.ac.uk
     
   - name: "Daniel Collins"
     photo: "dan-collins.JPG"
@@ -75,5 +66,15 @@ teams:
     title: PhD Student in Computer Science    
     email: yining.yuan@bristol.ac.uk
 
+alumni: 
+  - name: "Alex O. Davies"
+    photo: "alex-davies.JPG"
+    keywords: ["GNN", "Graphs", "Synthetic Data"]
+    webpage: "https://uk.linkedin.com/in/alex-davies-4b7baa165"
+    google_scholar: "https://scholar.google.com/citations?user=hU8RDCIAAAAJ"
+    orcid: "https://orcid.org/0000-0002-5174-5657"
+    previous: "PhD Student in Interactive AI / EPSRC Doctoral Impact Fellow"
+    title: "Senior Research Associate in AI for Climate and Health, University of Bristol"
+    email: alexander.davies@bristol.ac.uk
 
 

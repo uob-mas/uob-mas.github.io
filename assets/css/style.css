@@ -1,5 +1,6 @@
 body {
-  font-family: 'Inter', sans-serif;
+/*   font-family: 'Inter', sans-serif; */
+  font-family: "Source Sans 3", sans-serif;
   margin: 0;
   padding: 0;
   background-color: #f8f9fa;
@@ -110,7 +111,8 @@ nav {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Montserrat', sans-serif;
+/*   font-family: 'Montserrat', sans-serif; */
+  font-family: "Source Sans 3", sans-serif;
   font-weight: 500;
 }
 
@@ -143,4 +145,29 @@ h1, h2, h3, h4, h5, h6 {
 
 [hidden] {
   display: none !important;
+}
+
+/* Slightly more compact typography across the whole site */
+html {
+  font-size: 15px;
+}
+
+body {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.55rem; }
+h3 { font-size: 1.3rem; }
+h4 { font-size: 1.1rem; }
+h5 { font-size: 1rem; }
+h6 { font-size: 0.9rem; }
+
+.nav-title {
+  font-size: 18px;
+}
+
+.nav-links {
+  font-size: 0.95rem;
 }
